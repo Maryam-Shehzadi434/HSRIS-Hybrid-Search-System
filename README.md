@@ -14,6 +14,7 @@ HSRIS is a hybrid search system combining:
 <div class="section">
 <h2>🚀 Live Demo</h2>
 <p>
+    https://5hdvfov4sgpyuyn2kk38du.streamlit.app/
 <a href="https://huggingface.co/spaces/YOUR_USERNAME/hsris-ticket-search" target="_blank">
 Launch on Hugging Face
 </a>
